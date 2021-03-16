@@ -1,0 +1,23 @@
+{
+  "name": "fullstackcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lonas-l/CourseraCourseFullStackDeveloper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lonas-l/CourseraCourseFullStackDeveloper/issues"
+  },
+  "homepage": "https://github.com/Lonas-l/CourseraCourseFullStackDeveloper#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta2",
+    "jquery": "^3.6.0"
+  }
+}
