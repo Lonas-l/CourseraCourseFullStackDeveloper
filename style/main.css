@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color: #9575CD;
+    padding: 50px 50px;
+    color: #FFF;
+}
+
+footer {
+    background-color: #D1C4E9;
+}
+
+.container {
+    padding: 0px 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+small {
+    font-weight: normal;
+}
