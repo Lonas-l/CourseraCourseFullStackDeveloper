@@ -44,3 +44,13 @@ small {
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.btn-social-icon {
+    color: #303030;
+}
+
+@media (max-width: 576px) {
+    .nav-link span{
+        display: none; 
+    }
+}
